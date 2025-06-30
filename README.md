@@ -1,16 +1,28 @@
-🛒 Menu App 
-📱 Características
-Pantallas Principales
+# 🛒 E-commerce Mobile App
 
-🏠 Home: Pantalla principal con productos destacados y categorías
+Una aplicación móvil de comercio electrónico moderna con interfaz intuitiva y navegación fluida.
 
-❤️ Favorites: Lista de productos favoritos del usuario
-🛒 Cart: Carrito de compras con gestión de productos
-👤 Profile: Perfil del usuario y configuraciones
+## 📱 Características
 
-Funcionalidades
-✅ Navegación por pestañas (Bottom Navigation)
-📂 Estructura del Proyecto
+### Pantallas Principales
+- **🏠 Home**: Pantalla principal con productos destacados y categorías
+ ![Home Screen](screenshots/home_screen.png)
+- **❤️ Favorites**: Lista de productos favoritos del usuario
+  ![Favorites Screen](screenshots/favorites_screen.png)
+- **🛒 Cart**: Carrito de compras con gestión de productos 
+![Cart Screen](screenshots/cart_screen.png)
+- **🏪 Store**: Catálogo completo de productos con filtros
+![Store Screen](screenshots/store_screen.png)
+- **👤 Profile**: Perfil del usuario y configuraciones 
+![Profile Screen](screenshots/profile_screen.png)
+
+### Funcionalidades
+- ✅ Navegación por pestañas (Bottom Navigation)
+- ✅ Interfaz de usuario moderna y responsive
+
+## 📂 Estructura del Proyecto
+
+```
 app/
 ├── manifests/
 ├── kotlin+java/
@@ -35,3 +47,5 @@ app/
 │   ├── mipmap/
 │   ├── values/
 │   └── xml/
+└── screenshots/ (agregar esta carpeta para las imágenes)
+```
