@@ -6,14 +6,19 @@ Una aplicación móvil de comercio electrónico moderna con interfaz intuitiva y
 
 ### Pantallas Principales
 - **🏠 Home**: Pantalla principal con productos destacados y categorías
+  
  ![Home Screen](screenshots/home_screen.png)
 - **❤️ Favorites**: Lista de productos favoritos del usuario
+  
   ![Favorites Screen](screenshots/favorites_screen.png)
-- **🛒 Cart**: Carrito de compras con gestión de productos 
+- **🛒 Cart**: Carrito de compras con gestión de productos
+  
 ![Cart Screen](screenshots/cart_screen.png)
 - **🏪 Store**: Catálogo completo de productos con filtros
+  
 ![Store Screen](screenshots/store_screen.png)
-- **👤 Profile**: Perfil del usuario y configuraciones 
+- **👤 Profile**: Perfil del usuario y configuraciones
+  
 ![Profile Screen](screenshots/profile_screen.png)
 
 ### Funcionalidades
